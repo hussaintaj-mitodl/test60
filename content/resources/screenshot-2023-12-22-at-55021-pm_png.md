@@ -25,3 +25,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
+{{% resource_link "f13f3c4e-841b-4cc3-b908-6f9e63fe55cf" "page2" %}}
